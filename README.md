@@ -32,7 +32,7 @@ The goal of this repository is to showcase how to utilize the Julieta v1 board w
 ## Getting Started
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/julieta-v1-automation.git
+   git clone https://github.com/yourusername/julieta-v1.git
    ```
 2. Follow the instructions in the respective project folders:
    - `line-following-robot/`
